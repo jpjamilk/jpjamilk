@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpjamilk
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... coding, project planning, accelerator design
 - 🌱 I’m currently learning about... the features of GitHub
 - 💞️ I’m looking to collaborate on... EIC Controls projects
 - 📫 How to reach me... email: jpjamilk@bnl.gov, phone: 631-344-8598
